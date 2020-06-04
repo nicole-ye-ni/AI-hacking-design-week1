@@ -1,3 +1,6 @@
+# 读书笔记
+论文选择：Automatic Design of Colors for Magazine Covers
+***
 ### 颜色的两个方面：
 Harmony  
 Semantics  
