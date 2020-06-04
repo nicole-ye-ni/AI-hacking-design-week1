@@ -1,4 +1,4 @@
-# 读书笔记
+# 读书笔记及架构图
 论文选择：Automatic Design of Colors for Magazine Covers
 ***
 
@@ -35,6 +35,11 @@ Semantics（text color selection for specific cover images）
 + 将1170种组合对应到180种labels
 + 将180种labels对应到15种templates
 + 最后根据label的位置得出给定image在Kobayashi's Color Image Scale中的位置
+
+-------------
+### 架构图
+![架构图](https://github.com/nicole-ye-ni/AI-hacking-design-week1/blob/master/%E6%9E%B6%E6%9E%84%E5%9B%BE1.jpg)
+
 --------------
 ### 个人观点
 + 语义（semantics）和格调（color moods）只作用于封面底图的选择，而没有影响标题配色的选择吗？是否可以增加语义影响标题配色这一功能？
